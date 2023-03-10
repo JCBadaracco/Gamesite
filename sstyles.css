@@ -33,7 +33,7 @@ body {
  }
 
  .card:hover {
-  background-color: #e12e21;
+  background-color: #3399c8;
   transition: 1s;
   left: 0;
 }
