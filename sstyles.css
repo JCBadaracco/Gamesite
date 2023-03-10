@@ -62,7 +62,7 @@ body {
 
 img {
   padding: 5px;
-  transition: transform .2s;
+  transition: transform .1s;
   margin: 0 auto;
 }
 
