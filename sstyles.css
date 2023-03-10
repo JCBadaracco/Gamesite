@@ -34,7 +34,7 @@ body {
 
  .card:hover {
   background-color: #c84630;
-  transition: 1s;
+  transition: 2s;
   left: 0;
 }
 
