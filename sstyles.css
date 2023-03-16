@@ -1,8 +1,10 @@
 body {
   background-color: rgb(200, 200, 139);
-
 }
 
+body.playstation4 {
+  background-color: rgb(77, 77, 222);
+}
 .jumbotron {
   margin: 0;
   padding: 30px;
