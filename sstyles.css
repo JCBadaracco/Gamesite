@@ -1,31 +1,88 @@
 body {
   background-color: rgb(200, 200, 139);
 }
+
+
 #tlou2 {
   background-image: url("img gamesite/tlou-2.png");
   background-repeat: no-repeat;
   background-size: cover;
+  border-style:solid;
+  border-color: goldenrod;
+  border-width: 20px;
 }
 
+#un4 {
+  background-image: url("img gamesite/u4w.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-style:solid;
+  border-color: silver;
+  border-width: 20px;
+}
+
+#bloodborne {
+  background-image: url("img gamesite/Bloodborne.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-style:solid;
+  border-color: #CD7F32;
+  border-width: 20px;
+}
+
+#Ghostw {
+  background-image: url("img gamesite/Ghostw.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#GOW {
+  background-image: url("img gamesite/GOWw.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 #zbotw {
   background-image: url("img gamesite/BOTW-png.png");
   background-repeat: no-repeat;
   background-size: cover;
+  border-style:solid;
+  border-color: goldenrod;
+  border-width: 20px;
+  
 }
 
 #SSBM{
   background-image: url("img gamesite/SSB-.png");
   background-repeat: no-repeat;
   background-size: cover;
+  border-color: silver;
+  border-width: 20px;
+}
+
+#Mario {
+  background-image: url("img gamesite/MarioOd.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-style:solid;
+  border-color: #CD7F32;
+  border-width: 20px;
+  
 }
 
 #switch {
-  background-color: #c84630;
+  background-color: rgb(2, 5, 7);
   color: #f8f5f2;
+  text-shadow:  0px 20px 20px;
+  border-color: #CD7F32;
+  border-width: 20px;
+}
+
+#ps4h1{
+color:rgb(25, 0, 255);
+font-size: 50px;
 }
 
 #playstation4 {
-  background-color: rgb(71, 148, 225);
+  background-color: rgb(2, 5, 7);
   color: #f8f5f2;
 }
 .jumbotron {
@@ -45,10 +102,10 @@ body {
     border-radius: 50% 0;
   }
 
-  h1,h5 {
+  h1, h5 {
     text-shadow: 4px 4px #d3be1a;
    font-family: 'Press Start 2P', cursive;
-   font-size: 30px;
+   font-size: 35px;
 
 
   }.center-block {
@@ -81,9 +138,12 @@ body {
 
  input[type=text] {
   border: 2px solid rgb(57, 167, 57);
-  
+ }
  
-}
+
+  p {
+    text-shadow: 0px 3px 3px black;
+  }
 
 img {
   padding: 5px;
@@ -92,7 +152,10 @@ img {
   box-shadow:  20px 20px 60px rgba(0, 0, 0, 2 );
 }
 
-
+span {
+  font-size: 75px;
+  
+}
 
 
 img:hover {
