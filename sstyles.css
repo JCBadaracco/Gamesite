@@ -51,9 +51,10 @@ body {
 }
 
 #SSBM{
-  background-image: url("img gamesite/SSB-.png");
+  background-image: url("img gamesite/SSBU-.png");
   background-repeat: no-repeat;
   background-size: cover;
+  border-style:solid;
   border-color: silver;
   border-width: 20px;
 }
